@@ -1,4 +1,4 @@
-# E-Commerce Full Stack Project with Razorpay Payment Gateway Integration
+# E-Commerce Full Stack Project with Razorpay Integration
 
 ## Description
 
